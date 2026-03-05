@@ -1,5 +1,5 @@
 //Write a program to create the Fibonacci series up to n terms.
-public class first_program {
+public class first_Day {
     public static void main(String[] args) {
         int n = 10;
         int first =0 ;
