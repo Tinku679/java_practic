@@ -13,3 +13,4 @@ public class first_program {
         }
     }
 }
+//Write a program to reverse a given number
