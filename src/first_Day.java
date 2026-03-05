@@ -14,3 +14,15 @@ public class first_Day {
     }
 }
 //Write a program to reverse a given number
+public class first_Day {
+    public static void main(String[] args) {
+        int number = 12901;
+        int reversed = 0;
+        while (number!=0){
+            int Digit = number % 10;
+            reversed = reversed*10+Digit;
+            number /=10;
+        }
+        System.out.println(reversed);
+    }
+}
