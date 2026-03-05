@@ -1,4 +1,4 @@
-
+//Write a program to print the Fibonacci series up to n terms.
 public class first_program {
     public static void main(String[] args) {
         int n = 10;
